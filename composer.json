@@ -1,5 +1,5 @@
 {
-  "name": "brunoferreiraTBA/guia-remessa",
+  "name": "brunoferreiratba/guia-remessa",
   "description": "Gerador de guia de remessa Itaú",
   "require": {
     "php": ">=5.5",
