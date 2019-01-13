@@ -1,5 +1,5 @@
 {
-  "name": "brunoferreira/guia-remessa",
+  "name": "brunoferreiraTBA/guia-remessa",
   "description": "Gerador de guia de remessa Itaú",
   "require": {
     "php": ">=5.5",
@@ -17,7 +17,7 @@
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
-      "BrunoFerreira\\Itau\\": "src/BrunoFerreira/Itau"
+      "BrunoFerreiraTBA\\Itau\\": "src/BrunoFerreiraTBA/Itau"
     }
   }
 }
