@@ -6,7 +6,7 @@
  * Time: 02:49
  */
 
-namespace BrunoFerreira\Itau;
+namespace BrunoFerreiraTBA\Itau;
 
 
 class Itau

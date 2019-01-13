@@ -2,6 +2,6 @@
 
 include_once (__DIR__ . '/vendor/autoload.php');
 
-$app = new \BrunoFerreira\Itau\Itau();
+$app = new \BrunoFerreiraTBA\Itau\Itau();
 
 echo $app->gerar();
