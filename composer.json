@@ -1,0 +1,23 @@
+{
+  "name": "brunoferreira/guia-remessa",
+  "description": "Gerador de guia de remessa Itaú",
+  "require": {
+    "php": ">=5.5",
+    "silex/silex": "2.3.*@stable"
+  },
+  "type": "library",
+  "version": "1.0",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Bruno Ferreira",
+      "email": "bruno.silvatba@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "BrunoFerreira\\Itau\\": "src/BrunoFerreira/Itau"
+    }
+  }
+}
